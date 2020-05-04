@@ -12,3 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+caferss.jks
+app/release/app-release.apk
+app/release/app-release.aab
+app/release/output.json
